@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "email": "test@gmail.com",
+      "password": "mysupersecurepassword"
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 1650308159745,
+      "name": "ZAHRA",
+      "family": "qarebaqi",
+      "email": "zqarebaqi@gmail.com",
+      "password": "12345678",
+      "education": "",
+      "eduPlace": "",
+      "province": "تهران",
+      "city": "تهران"
+    }
+  ]
+}

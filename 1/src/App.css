@@ -1,0 +1,46 @@
+input {
+  color: #fff !important;
+}
+
+.app {
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  background-color: #24333b;
+  text-align: center;
+  direction: rtl;
+  padding: 20px;
+}
+
+.tab {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  width: 100%;
+  color: white;
+  background-color: #1eae89;
+}
+
+.tab > div {
+  width: 100%;
+}
+
+.bg-transparent {
+  background-color: transparent;
+}
+
+.bg-green {
+  background-color: #1eae89;
+  border: 0px;
+}
+
+.text-green {
+  color: #1eae89;
+}
